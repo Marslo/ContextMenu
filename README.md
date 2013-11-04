@@ -50,4 +50,4 @@ Double click the .reg file (Backup regedit first)
 </code></pre>
 
 ### Screenshot
-![ContaxtMenuForWindows](https://github.com/Marslo/ContextMenu/blob/master/SciTe/Screenshot.png?raw=true)
+![ContaxtMenuForWindows](https://github.com/Marslo/ContextMenu/blob/master/Screenshot/SciTE.png?raw=true)
